@@ -16,7 +16,7 @@ Port: 35557</br>
 </br>
 </br>
 MinePocket</br>
-plots.Minepocket.com:19162</br>
+plots.Minepocket.com:19132</br>
 http://minepocket.com</br>
 </br>
 </br>
